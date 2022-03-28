@@ -11,7 +11,6 @@
   inputs.src-oculus-master.ref   = "refs/heads/master";
   inputs.src-oculus-master.owner = "nimious";
   inputs.src-oculus-master.repo  = "oculus";
-  inputs.src-oculus-master.dir   = "";
   inputs.src-oculus-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
