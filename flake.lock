@@ -23,8 +23,9 @@
     },
     "nixpkgs": {
       "locked": {
-        "narHash": "sha256-7sWpWRO0IsBP5jm9qCrpuzDkWC7UAghiCmZZ+1uqHKo=",
-        "path": "/nix/store/q2jrkx5a3z6yxzbfai0kxpnqki80jm3l-source",
+        "lastModified": 0,
+        "narHash": "sha256-BBeCZwZImtjP3oYy4WogkQYy5OxNyfNciVSc1AfZgLQ=",
+        "path": "/nix/store/z8fi1f38y14lmsyhnph1l98qr3r9x7wr-source",
         "type": "path"
       },
       "original": {
@@ -44,11 +45,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1653696627,
-        "narHash": "sha256-pUP/afOLddvuZZUmcsT21AGVEOzkbtPeczcd0+sUfIw=",
+        "lastModified": 1653702202,
+        "narHash": "sha256-c0t2MalzQ0oHJjTkqI/qOrWbROrsFEHzhsRfM26Sfgs=",
         "owner": "nim-nix-pkgs",
         "repo": "oculus",
-        "rev": "6a25efd4f4c6b4dae35b8e2697c0bd9dfe29ab6b",
+        "rev": "03df9dfba6f269c72856cfe255978f286bcbdb43",
         "type": "github"
       },
       "original": {
