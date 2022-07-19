@@ -45,11 +45,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1658032094,
-        "narHash": "sha256-2GR0+GrfjPx1iWhl2Bpg7y+awOa2RE32t03Q8AAARKM=",
+        "lastModified": 1658201717,
+        "narHash": "sha256-BjvumJaEYS+JvSVZGFVPL3r9QowB1BtmiLM+3JkNivk=",
         "owner": "nim-nix-pkgs",
         "repo": "oculus",
-        "rev": "91e5e010d995790de2b3c1b59d3ea805cfdb3d27",
+        "rev": "1c0b2d9bf30e884e8b45ec223e2af4112d2ef8c9",
         "type": "github"
       },
       "original": {
