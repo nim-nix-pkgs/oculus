@@ -23,11 +23,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1667110639,
-        "narHash": "sha256-4FbPESZ5LbqQxkJJJBAfk/zKgF9h/4kyUwjjpJwYlbc=",
+        "lastModified": 1667199707,
+        "narHash": "sha256-I2Js3Y7gUyVSEXPULHlBoRek4Lh85vnevdS6mdvDNLI=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "f38a1f04d1bec1feb61fd101a0539ae2002a7087",
+        "rev": "ced197be72099edcfa68ebed8b87af7b04851f45",
         "type": "github"
       },
       "original": {
@@ -47,11 +47,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1662254707,
-        "narHash": "sha256-TVn1QOVN2v8upPKsgQu9kKOwx5hWL8pHd7hpNNRJYuw=",
+        "lastModified": 1667322542,
+        "narHash": "sha256-pfHHslCG7Tz0C21fw8tBG7PgRybREVvNxKzGGiDBbtg=",
         "owner": "nim-nix-pkgs",
         "repo": "oculus",
-        "rev": "55933f29b611ca0f082869535333c36aec42735b",
+        "rev": "4f6061d7b4130d74d051b1c48fdd6e5b91cd5c69",
         "type": "github"
       },
       "original": {
